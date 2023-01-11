@@ -1,0 +1,15 @@
+C:\RFP\C_sharp\EmployeePayroll\Businesslayer\bin\Debug\netcoreapp3.1\Businesslayer.deps.json
+C:\RFP\C_sharp\EmployeePayroll\Businesslayer\bin\Debug\netcoreapp3.1\Businesslayer.dll
+C:\RFP\C_sharp\EmployeePayroll\Businesslayer\bin\Debug\netcoreapp3.1\Businesslayer.pdb
+C:\RFP\C_sharp\EmployeePayroll\Businesslayer\bin\Debug\netcoreapp3.1\Modellayer.dll
+C:\RFP\C_sharp\EmployeePayroll\Businesslayer\bin\Debug\netcoreapp3.1\Repositorylayer.dll
+C:\RFP\C_sharp\EmployeePayroll\Businesslayer\bin\Debug\netcoreapp3.1\Modellayer.pdb
+C:\RFP\C_sharp\EmployeePayroll\Businesslayer\bin\Debug\netcoreapp3.1\Repositorylayer.pdb
+C:\RFP\C_sharp\EmployeePayroll\Businesslayer\obj\Debug\netcoreapp3.1\Businesslayer.csproj.AssemblyReference.cache
+C:\RFP\C_sharp\EmployeePayroll\Businesslayer\obj\Debug\netcoreapp3.1\Businesslayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\RFP\C_sharp\EmployeePayroll\Businesslayer\obj\Debug\netcoreapp3.1\Businesslayer.AssemblyInfoInputs.cache
+C:\RFP\C_sharp\EmployeePayroll\Businesslayer\obj\Debug\netcoreapp3.1\Businesslayer.AssemblyInfo.cs
+C:\RFP\C_sharp\EmployeePayroll\Businesslayer\obj\Debug\netcoreapp3.1\Businesslayer.csproj.CoreCompileInputs.cache
+C:\RFP\C_sharp\EmployeePayroll\Businesslayer\obj\Debug\netcoreapp3.1\Businesslayer.csproj.CopyComplete
+C:\RFP\C_sharp\EmployeePayroll\Businesslayer\obj\Debug\netcoreapp3.1\Businesslayer.dll
+C:\RFP\C_sharp\EmployeePayroll\Businesslayer\obj\Debug\netcoreapp3.1\Businesslayer.pdb

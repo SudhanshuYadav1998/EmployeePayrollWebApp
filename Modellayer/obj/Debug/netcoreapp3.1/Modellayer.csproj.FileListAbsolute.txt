@@ -1,0 +1,10 @@
+C:\RFP\C_sharp\EmployeePayroll\Modellayer\bin\Debug\netcoreapp3.1\Modellayer.deps.json
+C:\RFP\C_sharp\EmployeePayroll\Modellayer\bin\Debug\netcoreapp3.1\Modellayer.dll
+C:\RFP\C_sharp\EmployeePayroll\Modellayer\bin\Debug\netcoreapp3.1\Modellayer.pdb
+C:\RFP\C_sharp\EmployeePayroll\Modellayer\obj\Debug\netcoreapp3.1\Modellayer.csproj.AssemblyReference.cache
+C:\RFP\C_sharp\EmployeePayroll\Modellayer\obj\Debug\netcoreapp3.1\Modellayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\RFP\C_sharp\EmployeePayroll\Modellayer\obj\Debug\netcoreapp3.1\Modellayer.AssemblyInfoInputs.cache
+C:\RFP\C_sharp\EmployeePayroll\Modellayer\obj\Debug\netcoreapp3.1\Modellayer.AssemblyInfo.cs
+C:\RFP\C_sharp\EmployeePayroll\Modellayer\obj\Debug\netcoreapp3.1\Modellayer.csproj.CoreCompileInputs.cache
+C:\RFP\C_sharp\EmployeePayroll\Modellayer\obj\Debug\netcoreapp3.1\Modellayer.dll
+C:\RFP\C_sharp\EmployeePayroll\Modellayer\obj\Debug\netcoreapp3.1\Modellayer.pdb
